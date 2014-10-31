@@ -7,7 +7,7 @@
   <author email="melanie@frymanet.com" href="">
       Ionic Framework Team
     </author>
-  <content src="http://192.168.11.66:5500" original-src="index.html"/>
+  <content src="index.html"/>
   <access origin="*"/>
   <preference name="webviewbounce" value="false"/>
   <preference name="UIWebViewBounce" value="false"/>
