@@ -1,7 +1,7 @@
 {
   "name": "mlf-ionicphaser",
   "version": "1.0.0",
-  "description": "mlf-ionicphaser: An Ionic project",
+  "description": "mlf-ionicphaser: An Ionic Phaser game",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-concat": "^2.2.0",
